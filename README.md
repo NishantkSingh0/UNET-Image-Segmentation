@@ -1,4 +1,4 @@
-The U-Net model is trained on a segmented or non segmented dataset. it consist of images of different womens with their Fancy outwears. The dataset i found is too big but due to complex architecture of U-Net i Trained it on 50 images and test on 20. the size of images are (600,400,3) but trained by resizing it to (400,256,3) due to High memory usage problem in U-Net architecture.
+The U-Net model is trained on a segmented or non segmented dataset. it consist of images of different womens with their Fancy outwears. The dataset i found is too big. but due to complex architecture of U-Net. i Trained it on 50 images and test on 20. the size of images are (600,400,3) but trained by resizing it to (400,256,3) due to High memory usage problem in U-Net architecture.
 
 
 
