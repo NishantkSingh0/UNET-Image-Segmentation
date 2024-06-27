@@ -2,7 +2,9 @@ The U-Net model is trained on a segmented or non segmented dataset. it consist o
 
 
 
-Dataset: You can view dataset uploaded on My google drive ( https://drive.google.com/drive/folders/18yU_YryMzuNRX_W1_oNDfyKb318ANX5H?usp=sharing ).
+Dataset: You can view dataset uploaded on My google drive 
+
+( https://drive.google.com/drive/folders/18yU_YryMzuNRX_W1_oNDfyKb318ANX5H?usp=sharing ).
 
 
 ![image_13](https://github.com/NishantkSingh0/Unet_Image_segment_womens/assets/166206623/b8b5d2a4-ea8e-49dc-a4ca-b8040cd4e221)             ![image_13](https://github.com/NishantkSingh0/Unet_Image_segment_womens/assets/166206623/416b5a95-2101-4182-86a4-f545d504e388)
