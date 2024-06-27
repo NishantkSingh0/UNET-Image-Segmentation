@@ -14,3 +14,9 @@ Dataset: You can view dataset uploaded on My google drive
 Model:- Due to large and complex model it's size is 105MB which is not uploadable to GitHub. SO for model view You can download from my drive link.
 
 ( https://drive.google.com/file/d/1-NjgsUHlNW4YxzWjQ9Ht2ilXZCsGPIBg/view?usp=sharing )
+
+
+Model Architecture:
+
+![Screenshot (73)](https://github.com/NishantkSingh0/Unet_Image_segment_womens/assets/166206623/550f54ed-98cd-47a3-825d-055b7460f34f)
+![Screenshot (74)](https://github.com/NishantkSingh0/Unet_Image_segment_womens/assets/166206623/01612cc9-f702-46ae-9344-c305b0eb970e)
